@@ -1,0 +1,20 @@
+Feature: Upgrade Eligibility
+  Background:
+    Given I am in the upgrade portal
+    Given I have a new deal in the basket
+    And I have active contract(s)
+
+  Scenario:
+
+##############################
+
+- Given I have a deal in basket
+- check if i have any contracts under my account
+- if i have contracts check of the contracts which are eligible for an upgrade
+- if eligible contracts are present, check type of upgrade (HAN-SIM, HAN-HAN, SIM-HAN, SIM-SIM)
+-
+
+Scenario 1: Is Eligible pass deal return true;
+Scenario 2: Based on Eligibility (Scenario 1) being true, we should get available numbers for the deal;
+Scenario 3: Based on Eligibility (Scenario 1) being true, we should be able to get upgrade type;
+Scenario 4: Based on Eligibility (Scenario 2) we should be able to use use deal switch based on (Scenario 3);

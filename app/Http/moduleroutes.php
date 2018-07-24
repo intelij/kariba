@@ -1,0 +1,31 @@
+<?php
+        Route::controller('sximoforum', 'SximoforumController');
+                    Route::controller('faqs', 'FaqsController');
+                    Route::controller('employee', 'EmployeeController');
+                    Route::controller('processapplications', 'ProcessapplicationsController');
+                    Route::controller('clients', 'ClientsController');
+                    Route::controller('payments', 'PaymentsController');
+                    Route::controller('productsalesdata', 'ProductsalesdataController');
+                    Route::controller('blank', 'BlankController');
+                    Route::controller('contracts', 'ContractsController');
+                    Route::controller('chartofaccounts', 'ChartofaccountsController');
+                    Route::controller('deposits', 'DepositsController');
+                    Route::controller('products', 'ProductsController');
+                    Route::controller('branches', 'BranchesController');
+                    Route::controller('branchattachment', 'BranchattachmentController');
+                    Route::controller('branchcomments', 'BranchcommentsController');
+                    Route::controller('office', 'OfficeController');
+                    Route::controller('clientsmanagement', 'ClientsmanagementController');
+                    Route::controller('activeclients', 'ActiveclientsController');
+                    Route::controller('inactiveclients', 'InactiveclientsController');
+                    Route::controller('exitedclients', 'ExitedclientsController');
+                    Route::controller('blacklistedclients', 'BlacklistedclientsController');
+                    Route::controller('loans', 'LoansController');
+                    Route::controller('activeloans', 'ActiveloansController');
+                    Route::controller('loanspendingapproval', 'LoanspendingapprovalController');
+                    Route::controller('loansinarrears', 'LoansinarrearsController');
+                    Route::controller('loantransactions', 'LoantransactionsController');
+                    Route::controller('deposittransactions', 'DeposittransactionsController');
+                    Route::controller('activities', 'ActivitiesController');
+                    Route::controller('pinpoint', 'PinpointController');
+                    ?>

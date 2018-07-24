@@ -1,0 +1,214 @@
+22 May 2016, 22:49:40
+
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/?ref=3wm",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/?ref=3wm",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/contact/",
+	referenced from "http://themes.3rdwavemedia.com/contact/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/contact/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/contact/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-builders-tradesmen-trades/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-bands-and-musicians-decibel/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-template-for-crowdfunding-campaigns-onboard/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-wedding-invitation-template-matrimony/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-restaurants-epicure/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/bootstrap-theme-college-green/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/bootstrap-theme-college-green/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/bootstrap-theme-college-green/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/bootstrap-theme-college-green/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/prettydocs-free-bootstrap-theme-developers-and-startups/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/tempo/index",
+	referenced from "http://themes.3rdwavemedia.com/tempo/404.html",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/licenses/",
+	referenced from "http://themes.3rdwavemedia.com/licenses/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http://themes.3rdwavemedia.com/licenses/&format=xml",
+	referenced from "http://themes.3rdwavemedia.com/licenses/",
+	failed with error code -1102 (You do not have permission to access the requested resource.)
+ERROR: Download of "http://themes.3rdwavemedia.com/devstudio/+0800123456",
+	referenced from "http://themes.3rdwavemedia.com/devstudio/",
+	failed with error code -1100 (File does not exist.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-discussion.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-member-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-members-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-members.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-member.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-discussion-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-profile.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-settings.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-profile-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-billing.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-billing-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-settings-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-messages.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-messages-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-drive.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-drive-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-reminders.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-account-reminders-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-activities.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-inbox-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-activities-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-tickets.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-tickets-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-inbox.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-timeline.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-chart-flot.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/charts.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/plugins/lightbox/dist/ekko-lightbox.min.js",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-timeline-thumb.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/components.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-chart-chartjs.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/charts.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/appkit-chart-inline.jpg",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/charts.html",
+	failed with error code -1001 (The request timed out.)
+ERROR: Download of "http://themes.3rdwavemedia.com/demo/prettydocs/assets/images/demo/theme-velocity.png",
+	referenced from "http://themes.3rdwavemedia.com/demo/prettydocs/showcase.html",
+	failed with error code -1001 (The request timed out.)
+
+22 May 2016, 22:56:03
+
+---------------------
+
